@@ -46,7 +46,7 @@ body {
 .circle {
     width: 150px;
     height: 150px;
-    background: linear-gradient(to bottom right, teal, blue);
+    background-color: lightgreen;
     border-radius: 50%;
    z-index: 1;
  
@@ -55,7 +55,7 @@ body {
 .square {
     width: 150px;
     height: 150px;
-    background: linear-gradient(to bottom right, pink, orange);
+    background-color: darkgoldenrod;
     border-radius: 15px;
     position: absolute;
     top: 50px;
@@ -67,7 +67,7 @@ body {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background: linear-gradient(to bottom right , red,blue);
+    background-color: darkmagenta;
     z-index: 3;
     position: absolute;
     left: 100px;
